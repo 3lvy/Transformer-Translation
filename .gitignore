@@ -1,0 +1,6 @@
+__pycache__/
+weights/
+runs/
+Helsinki-NLP/
+*.json
+*.pt
